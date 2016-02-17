@@ -1,2 +1,3 @@
 # hello-world
-a simple hello-world program
+Aaron Wang
+B.S. in Computer Information Systems
